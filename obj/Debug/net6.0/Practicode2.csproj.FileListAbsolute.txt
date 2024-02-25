@@ -1,0 +1,17 @@
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\Practicode2.exe
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\Practicode2.deps.json
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\Practicode2.runtimeconfig.json
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\Practicode2.dll
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\Practicode2.pdb
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.AssemblyInfo.cs
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.dll
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\refint\Practicode2.dll
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.pdb
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\Practicode2.genruntimeconfig.cache
+C:\Users\user1\Desktop\Practicode2\obj\Debug\net6.0\ref\Practicode2.dll
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\HtmlTags.json
+C:\Users\user1\Desktop\Practicode2\bin\Debug\net6.0\HtmlVoidTags.json
